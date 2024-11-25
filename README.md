@@ -6,4 +6,4 @@ Python notebook file for the following data projects
 - Maven Coffee Data Analysis
 
 Python notebook files for cryptography projects
-- RSA, Diffie-Hellman
+- RSA, ElGamal
