@@ -7,3 +7,4 @@ Python notebook file for the following data projects
 
 Python notebook files for cryptography projects
 - RSA, ElGamal
+- Elliptic Curve
